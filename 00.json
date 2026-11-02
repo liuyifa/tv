@@ -1,0 +1,11 @@
+{"urls":[
+        {"url":"https://raw.giteeusercontent.com/qdpdwjx0001/ziyuan/raw/master/ziyong.bmp","name":"主用线路"}, 
+        {"url":"https://4098.kstore.space/ziyong2.json","name":"自用线路"},
+        {"url":"https://cnb.cool/qdpdwjx/ziyuan/-/git/raw/master/ziyong.json","name":"备用线路"}, 
+        {"url":"https://cnb.cool/qdpdwjx/ziyuan/-/git/raw/master/ceshi.json","name":"备用线路2"}, 
+        {"url":"https://fastly.jsdelivr.net/gh/maoystv/6@main/000.json","name":"分享线路"},
+        {"url":"https://gh-proxy.org/raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json","name":"小米线路"},
+        {"url":"http://www.饭太硬.net/tv","name":"饭太硬线路"},
+        {"url":"https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json","name":"香雅情线路"}, 
+        {"url":"https://fastly.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json","name":"南风线路"},               
+        ]}
